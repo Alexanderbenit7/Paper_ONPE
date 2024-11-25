@@ -1,6 +1,7 @@
-# La relación entre el apoyo a la democracia y las preferencias hacia el ejercicio iliberal y autoritario del poder político en Perú (2023)
+## La relación entre el apoyo a la democracia y las preferencias hacia el ejercicio iliberal y autoritario del poder político en Perú (2023)
 ### Revista Elecciones 24(28), 2024
-### DOI:10.53557/Elecciones.2024.v23n28.05
+
+DOI:<10.53557/Elecciones.2024.v23n28.05>
 
 Autores:
 + María Belén Elías Pineda <belen.eliasp@pucp.edu.pe>
